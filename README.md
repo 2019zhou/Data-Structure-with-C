@@ -1,9 +1,37 @@
-# DengDS2
-有关于其他的一些
+# Data Structure 
+> 在 Data Structure 中使用C++对于常用的数据结构进行了implementation
+> 在这个仓库中的内容按照所涉及的数据结构进行整理，更加偏向C语言代码，致力于更加通俗易懂的数据结构implementation
 
-汇编语言的答案  -- 王爽
-**https://blackdragonf.github.io/2017/03/05/%E7%8E%8B%E7%88%BD%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%89%E7%89%88%E6%A3%80%E6%B5%8B%E7%82%B9%E7%AD%94%E6%A1%88/**
+## 内容
 
--- 卜艳萍
-**http://www.weivb.com/so/url.php?a=https://wenku.baidu.com/view/744e40e75ef7ba0d4a733be0.html**
+### array
+- searching.cpp
+- sorting.cpp
+- sparseMatrix.cpp
+- sparseMatrix.h
 
+### graph
+- BFS.cpp
+- DFS.cpp
+- prim.cpp
+- toposort.cpp
+
+### list
+- double_linked_list.c
+- ManagementSystem1.cpp
+- ManagementSystem2.cpp
+- ManagementSystem3.cpp
+- SampleData.txt
+
+### queue
+- Bank.c
+
+### stack
+- calculator.c
+
+### tree
+- btree.cpp
+- createbtree.cpp
+- invertTree.cpp
+- levelorder.cpp
+- traversal.cpp
